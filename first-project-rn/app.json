@@ -1,8 +1,9 @@
 {
   "expo": {
     "name": "Blank Template",
-    "slug": "rn-first-project",
+    "slug": "first-project-rn",
     "privacy": "public",
+    "sdkVersion": "36.0.0",
     "platforms": [
       "ios",
       "android",

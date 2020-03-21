@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Blank Template",
-    "slug": "first-project-rn",
+    "slug": "rn-goals-app",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [

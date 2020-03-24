@@ -24,7 +24,7 @@ export default function App () {
       <FlatList
         keyExtractor={(item, index) => item.id}
         data={courseGoals}
-        renderItem={itemData => <GoalItem title={itemData.item.value} />}
+        renderItem={itemData => <GoalItem onRemove={() => console.log('Wanna remove Me?')} title={itemData.item.value} />}
       />
     </View>
   )

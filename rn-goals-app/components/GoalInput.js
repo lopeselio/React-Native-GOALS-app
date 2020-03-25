@@ -27,7 +27,7 @@ const styles = StyleSheet.create({
   inputContainer: {
     flex: 1.5,
     justifyContent: 'center',
-    alignItems: 'center',
+    alignItems: 'center'
   },
   input: {
     width: '80%',
